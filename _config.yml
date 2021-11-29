@@ -1,8 +1,9 @@
-title: Moonwalk
+title: KMSC Digital Portfolio
 author: Abhinav Saxena
 url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+  
+  The Khoury Master’s Student Council (KMSC) serves as an official liaison between master’s students and the administration at Khoury College. The mission of the Council is to promote master’s student interests to enrich academic and student life within the Khoury master’s department. As a member of KMSC, you’ll be part of an organization that aims to promote the appreciation of diversity and inclusion of all people within the department. Every semester, you’ll engage by attending movie nights, open mics, game nights, academic and career mentoring events, and panel discussions. You’ll have the opportunity to network with other students and share your concerns by attending KMSC’s open meetings. KMC’s goal is to foster diversity, inclusion, and mutual learning within the master’s programs while allowing students to make the most of their time at Khoury.
 
 permalink: /:slug.html
 
@@ -34,7 +35,7 @@ theme_config:
     title_projects: Portfolio
     title_misc_list: Details
     title_blog: Blog
-    title_old_projects: Old Projects
+    title_old_projects: Work Experience
 
 soopr:
   publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
